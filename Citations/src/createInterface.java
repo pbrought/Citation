@@ -2,7 +2,7 @@ import java.awt.*;
 import javax.swing.*;
 import java.awt.event.*;
 import javax.swing.text.*;
-
+//THIS IS A TEST LINE; REMOVE WHEN IT WORKS.
 public class createInterface extends JPanel implements ActionListener, FocusListener {
     JTextField authorField, titleField, sourceField, editorField, pubField;
     JLabel citationDisplay;
